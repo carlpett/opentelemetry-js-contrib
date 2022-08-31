@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.29.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-fastify-v0.28.0...instrumentation-fastify-v0.29.0) (2022-08-31)
+
+
+### Features
+
+* update experimental Otel deps to ^0.31.0 ([#1096](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1096)) ([4c8843b](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/4c8843be14896d1159a622c07eb3a049401ccba1))
+
 ## [0.28.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-fastify-v0.27.0...instrumentation-fastify-v0.28.0) (2022-06-08)
 
 

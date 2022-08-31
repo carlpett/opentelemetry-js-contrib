@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.30.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-connect-v0.29.0...instrumentation-connect-v0.30.0) (2022-08-31)
+
+
+### Features
+
+* update experimental Otel deps to ^0.31.0 ([#1096](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1096)) ([4c8843b](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/4c8843be14896d1159a622c07eb3a049401ccba1))
+
+
+### Bug Fixes
+
+* connect's error handling middleware not called properly (opentel… ([#1076](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1076)) ([012eafb](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/012eafb2ff4022220a4e26351ad66f1b1d080aec))
+
 ## [0.29.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-connect-v0.28.0...instrumentation-connect-v0.29.0) (2022-06-08)
 
 
